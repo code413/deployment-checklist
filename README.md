@@ -1,7 +1,6 @@
 # Deployment Checklist
 The checklist we run a project through before going live.
 
-
 ## 1. Browsers
 - [ ] Desktop: test on latest versions of Chrome, IE/Edge, Firefox, and Safari
 - [ ] Mobile: test on latest versions of Mobile Safari, Mobile Chrome, and Android
@@ -28,7 +27,7 @@ The checklist we run a project through before going live.
 - [ ] Redirect `http` traffic to `https`
 
 ## Github
-- [ ] Remove `develop` branch or other stale branches 
+- [ ] Remove `dev` branch and other stale branches 
 
 # Credits
 Many bits of this checklist are inspired from [Spatie's Checklist Going Live](https://github.com/spatie/checklist-going-live).
