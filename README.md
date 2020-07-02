@@ -1,7 +1,7 @@
 # Deployment Checklist
 The checklist we run a project through before going live.
 
-## 1. Browsers
+## Browsers
 - [ ] Desktop: test on latest versions of Chrome, IE/Edge, Firefox, and Safari
 - [ ] Mobile: test on latest versions of Mobile Safari, Mobile Chrome, and Android
 
