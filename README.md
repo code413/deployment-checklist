@@ -9,6 +9,10 @@ The checklist we run a project through before going live.
 - [ ] Remove all `console.log` lines in scripts
 - [ ] Check for console errors
 
+## Forms
+- [ ] Test all forms
+- [ ] Ensure email notifications have the right `to` and `from` addresses
+
 ## Meta
 - [ ] Check page titles / descriptions
 - [ ] Test Facebook sharing. Provide og-tags if needed
