@@ -1,6 +1,10 @@
 # Deployment Checklist
 The checklist we run a project through before going live.
 
+## Environment
+- [ ] Ensure `APP_ENV` is set to `production`
+- [ ] Ensure `APP_DEBUG` is `false`
+
 ## Browsers
 - [ ] Desktop: test on latest versions of Chrome, IE/Edge, Firefox, and Safari
 - [ ] Mobile: test on latest versions of Mobile Safari, Mobile Chrome, and Android
